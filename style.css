@@ -1,0 +1,21 @@
+body{
+    /* background-color: bisque; */
+    background-image: url(image/qwe.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.header {
+    background: linear-gradient(to right,#cceeff,#80d4ff);
+    /*This is to make color gradient in html */
+    box-shadow: 4px 4px 10px black;
+}
+
+.logo{
+    margin: auto;
+}
+h1{
+    color:mediumseagreen;
+    text-shadow: 1px 1px 3px blue;
+}
